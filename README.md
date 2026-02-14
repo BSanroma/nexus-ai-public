@@ -1,6 +1,6 @@
 <div align="center">
 
-nexus.dev/assets/banner-social.jpg)
+(s-banner-social.jpg)
 
 # 🤖 Nexus AI (Pocket DevOps)
 ### Leave the laptop at home. Manage your local projects via Telegram.

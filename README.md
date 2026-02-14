@@ -1,6 +1,6 @@
 <div align="center">
 
-(s-banner-social.jpg)
+<img src="s-banner-social.jpg" alt="Nexus AI Banner" width="100%">
 
 # 🤖 Nexus AI (Pocket DevOps)
 ### Leave the laptop at home. Manage your local projects via Telegram.

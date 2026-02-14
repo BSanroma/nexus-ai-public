@@ -1,6 +1,6 @@
 <div align="center">
 
-![Nexus AI Banner](https://remote-nexus.dev/assets/banner-social.jpg)
+nexus.dev/assets/banner-social.jpg)
 
 # 🤖 Nexus AI (Pocket DevOps)
 ### Leave the laptop at home. Manage your local projects via Telegram.
